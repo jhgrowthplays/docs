@@ -122,5 +122,10 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-JX4CJ61VSZ"
+    }
   }
 }
